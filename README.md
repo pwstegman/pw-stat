@@ -7,7 +7,7 @@ Statistics in JavaScript
 npm install --save pw-stat
 ```
 
-## Getting started
+## Getting Started
 
 ```javascript
 var stat = require('pw-stat');
