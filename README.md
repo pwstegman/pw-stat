@@ -27,3 +27,7 @@ var cov = stat.cov(a);
 console.log(mean); // [ 46, 52 ]
 console.log(cov); // [ [ 559, 374 ], [ 374, 1456 ] ]
 ```
+
+## Documentation
+
+Documentation is available at [http://pwstegman.me/pw-stat/](http://pwstegman.me/pw-stat/)
