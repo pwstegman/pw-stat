@@ -4,7 +4,7 @@ Statistics in JavaScript
 ## Installation
 
 ```bash
-npm install --save pw-stat
+npm install pw-stat
 ```
 
 ## Getting Started

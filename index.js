@@ -1,6 +1,6 @@
 /**
  * Returns the covariance matrix for a given matrix.
- * @param {number[]} x - A matrix where rows are samples and columns are variables.
+ * @param {number[][]} x - A matrix where rows are samples and columns are variables.
  */
 function cov(x) {
 	// Useful variables
@@ -52,7 +52,7 @@ function cov(x) {
 
 /**
  * Returns the mean of each column in the provided matrix.
- * @param {number[]} x - Two-dimensional matrix.
+ * @param {number[][]} x - Two-dimensional matrix.
  */
 function mean(x) {
 	var result = [];
