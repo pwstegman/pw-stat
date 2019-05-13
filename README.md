@@ -21,7 +21,7 @@ var a = [
 // Compute the mean of each column
 var mean = stat.mean(a);
 
-// Compute the covariance matrix
+// Compute the sample covariance matrix
 var cov = stat.cov(a);
 
 console.log(mean); // [ 46, 52 ]
